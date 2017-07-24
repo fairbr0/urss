@@ -1,0 +1,134 @@
+county
+avon
+bedfordshire
+berkshire
+city of bristol
+buckinghamshire
+cambridgeshire
+cambridgeshire and isle of ely
+cheshire
+cleveland
+cornwall
+cumberland
+cumbria
+derbyshire
+devon
+dorset
+durham (county durham)
+east suffolk
+east sussex
+essex
+gloucestershire
+greater london
+greater manchester
+hampshire
+hereford and worcester
+herefordshire
+hertfordshire
+humberside
+huntingdon and peterborough
+huntingdonshire
+isle of ely
+isle of wight
+kent
+lancashire
+leicestershire
+lincolnshire
+lincolnshire, parts of holland
+lincolnshire, parts of kesteven
+lincolnshire, parts of lindsey
+london
+city of london
+merseyside
+middlesex
+norfolk
+northamptonshire
+northumberland
+north humberside
+north yorkshire
+nottinghamshire
+oxfordshire
+soke of peterborough
+rutland
+shropshire
+somerset
+south humberside
+south yorkshire
+staffordshire
+suffolk
+surrey
+sussex
+tyne and wear
+warwickshire
+west midlands
+westmorland
+west suffolk
+west sussex
+west yorkshire
+wiltshire
+worcestershire
+yorkshire
+yorkshire, east riding
+yorkshire, north riding
+yorkshire, west riding
+barnet
+barnsley
+bexley
+birmingham
+bolton
+bournemouth
+bradford
+bromley
+bury
+clackmannan
+conwy
+conwy
+coventry
+croydon
+croydon
+darlington
+doncaster
+dudley
+durham
+ealing
+enfield
+falkirk
+gateshead
+greenwich
+hackney
+harrow
+hartlepool
+hillingdon
+hounslow
+islington
+knowsley
+lambeth
+leeds
+lewisham
+liverpool
+luton
+manchester
+merton
+middlesbrough
+oldham
+poole
+redbridge
+rochdale
+rotherham
+salford
+sandwell
+sefton
+sheffield
+solihull
+stirling
+stockport
+stockton-on-tees
+sunderland
+sutton
+swindon
+wakefield
+walsall
+wandsworth
+wigan
+wolverhampton
+york

@@ -1,0 +1,588 @@
+Uachdar - Western Isles 57.47N 07.34W NF8055
+Ubberley - City of Stoke-on-Trent 53.01N 02.13W SJ9146
+Ubley - Bath and North East Somerset 51.31N 02.69W ST5258
+Uck - East Sussex 50.96N 00.09E TQ475206
+Uckerby - North Yorkshire 54.41N 01.63W NZ2402
+Uckfield - East Sussex 50.96N 00.09E TQ4721
+Uckinghall - Hereford and Worcester 52.04N 02.20W SO8638
+Uckington - Gloucestershire 51.91N 02.13W SO9124
+Uckington - Shropshire 52.67N 02.63W SJ5709
+Uddingston - South Lanarkshire 55.81N 04.09W NS6960
+Uddington - South Lanarkshire 55.57N 03.80W NS8633
+Udimore - East Sussex 50.93N 00.64E TQ8618
+Udley - North Somerset 51.36N 02.77W ST4663
+Udny Green - Aberdeenshire 57.32N 02.20W NJ8826
+Udny Station - Aberdeenshire 57.30N 02.16W NJ9024
+Udston - South Lanarkshire 55.77N 04.08W NS6955
+Udstonhead - South Lanarkshire 55.69N 04.06W NS7046
+Uffcott - Wiltshire 51.49N 01.82W SU1277
+Uffculme - Devon 50.89N 03.33W ST0612
+Uffington - Oxfordshire 51.59N 01.56W SU3089
+Uffington - Lincolnshire 52.65N 00.43W TF0607
+Uffington - Shropshire 52.71N 02.71W SJ5213
+Ufford - Suffolk 52.11N 01.34E TM2952
+Ufford - Cambridgeshire 52.62N 00.39W TF0904
+Ufton - Warwickshire 52.25N 01.45W SP3762
+Ufton Green - Berkshire 51.40N 01.10W SU6268
+Ufton Nervet - Berkshire 51.39N 01.09W SU6367
+Ugborough - Devon 50.37N 03.87W SX6755
+Ugford - Wiltshire 51.07N 01.88W SU0831
+Uggeshall - Suffolk 52.36N 01.58E TM4480
+Ugglebarnby - North Yorkshire 54.45N 00.64W NZ8807
+Ughill - Sheffield 53.40N 01.62W SK2590
+Ugie - Aberdeenshire 57.52N 01.91W NK053486
+Ugley - Essex 51.93N 00.20E TL5228
+Ugley Green - Essex 51.92N 00.20E TL5227
+Ugthorpe - North Yorkshire 54.48N 00.78W NZ7911
+Uidh - Western Isles 56.92N 07.50W NL6595
+Uidh Loch na Gaireimh - Highland 58.27N 04.16W NC731337
+Uig - Highland 57.58N 06.36W NG3963
+Uig - Highland 57.47N 06.68W NG1952
+Uig - Argyll and Bute 56.59N 06.62W NM1654
+Uigen - Western Isles 58.19N 06.95W NB0934
+Uigshader - Highland 57.43N 06.30W NG4246
+Uinessan - Western Isles 56.93N 07.47W NL671957
+Uisage Dubh (Black Water) - Highland 57.43N 05.29W NH022425
+Uisage Dubh (Black Water) - Highland 57.37N 05.32W NH004365
+Uisg a' Chaime - Highland 57.08N 04.55W NH452024
+Uisge an t-Suidhe - Argyll and Bute 55.79N 06.33W NR282642
+Uisge Labhair - Highland 56.79N 04.58W NN425698
+Uisken - Argyll and Bute 56.29N 06.23W NM3819
+Uisletter - Western Isles 57.98N 06.89W NB109097
+Ulbster - Highland 58.34N 03.16W ND3240
+Ulcat Row - Cumbria 54.59N 02.93W NY4022
+Ulceby - North Lincolnshire 53.61N 00.33W TA1014
+Ulceby - Lincolnshire 53.22N 00.12E TF4272
+Ulceby Skitter - North Lincolnshire 53.61N 00.30W TA1215
+Ulcombe - Kent 51.21N 00.63E TQ8449
+Uldale - Cumbria 54.71N 03.18W NY2436
+Uley - Gloucestershire 51.68N 02.31W ST7898
+Ulgham - Northumberland 55.22N 01.63W NZ2392
+Ulladale River - Western Isles 58.00N 06.95W NB074121
+Ullapool - Highland 57.89N 05.17W NH1294
+Ullapool River - Highland 57.90N 05.16W NH124944
+Ullcombe - Devon 50.87N 03.12W ST2109
+Ullenhall - Warwickshire 52.30N 01.82W SP1267
+Ulleskelf - North Yorkshire 53.84N 01.22W SE5139
+Ullesthorpe - Leicestershire 52.47N 01.26W SP5087
+Ulley - Rotherham 53.37N 01.30W SK4687
+Ullingswick - Hereford and Worcester 52.13N 02.60W SO5949
+Ullington - Hereford and Worcester 52.12N 01.85W SP1047
+Ullinish - Highland 57.35N 06.45W NG3238
+Ullock - Cumbria 54.59N 03.17W NY2423
+Ullock - Cumbria 54.59N 03.44W NY0723
+Ulpha - Cumbria 54.32N 03.24W SD1993
+Ulrome - East Riding of Yorkshire 53.98N 00.23W TA1656
+Ulshaw - North Yorkshire 54.27N 01.78W SE1487
+Ulsta - Shetland Islands 60.50N 01.16W HU4680
+Ulva - Argyll and Bute 56.47N 06.21W NM404398
+Ulverley Green - Solihull 52.42N 01.81W SP1381
+Ulverston - Cumbria 54.19N 03.10W SD2878
+Ulwell - Dorset 50.61N 01.97W SZ0280
+Umberleigh - Devon 50.98N 03.99W SS6023
+Umborne - Devon 50.76N 03.09W SY2397
+Umbourne Brook - Devon 50.79N 03.11W ST216000
+Unapool - Highland 58.24N 05.01W NC2332
+Under Bank - Kirklees 53.55N 01.79W SE1407
+Underbarrow - Cumbria 54.32N 02.83W SD4692
+Undercliffe - Bradford 53.80N 01.74W SE1734
+Underdale - Shropshire 52.71N 02.74W SJ5013
+Underdown - Devon 50.65N 03.58W SX8885
+Underhill - Wiltshire 51.06N 02.18W ST8730
+Underhill - Barnet 51.64N 00.19W TQ2595
+Underhoull - Shetland Islands 60.71N 00.95W HP5704
+Underlining Green - Kent 51.18N 00.50E TQ7546
+Underriver - Kent 51.24N 00.21E TQ5552
+Underriver Ho - Kent 51.24N 00.23E TQ5652
+Under the Wood - Kent 51.34N 01.18E TR2266
+Under Tofts - Sheffield 53.37N 01.55W SK3087
+Underton - Shropshire 52.52N 02.47W SO6892
+Underwood - Devon 50.37N 04.06W SX5355
+Underwood - Sir Benfro (Pembrokeshire) 51.76N 04.92W SM9811
+Underwood - Casnewydd (Newport) 51.58N 02.89W ST3888
+Underwood - Nottinghamshire 53.04N 01.30W SK4750
+Undley - Suffolk 52.40N 00.48E TL6981
+Undy - Sir Fynwy (Monmouthshire) 51.57N 02.82W ST4386
+Unifirth - Shetland Islands 60.28N 01.49W HU2856
+Union Canal - West Lothian 55.96N 03.64W NS974756
+Union Canal - West Lothian 55.97N 03.57W NT018767
+Union Mills - Isle of Man 54.16N 04.52W SC3577
+Union Street - East Sussex 51.05N 00.42E TQ7031
+United Downs - Cornwall 50.22N 05.17W SW7441
+Unst - Shetland Islands 60.74N 00.88W HP607073
+Unstone - Derbyshire 53.28N 01.44W SK3777
+Unstone Green - Derbyshire 53.28N 01.44W SK3776
+Unsworth - Bury 53.55N 02.28W SD8107
+Unthank - Cumbria 54.82N 02.95W NY3948
+Unthank - Cumbria 54.71N 02.85W NY4536
+Unthank - Cumbria 54.75N 02.62W NY6040
+Unthank - Derbyshire 53.28N 01.55W SK3076
+Upavon - Wiltshire 51.29N 01.81W SU1355
+Up Cerne - Dorset 50.81N 02.49W ST6502
+Upchurch - Kent 51.37N 00.64E TQ8467
+Upcott - Somerset 51.00N 03.15W ST1924
+Upcott - Devon 51.13N 04.17W SS4839
+Upcott - Cornwall 50.92N 04.50W SS2417
+Upcott - Devon 50.86N 04.03W SS5709
+Upcott - Devon 50.86N 03.91W SS6509
+Upcott - Hereford and Worcester 52.14N 02.99W SO3250
+Upend - Cambridgeshire 52.19N 00.47E TL6958
+Up End - Milton Keynes 52.09N 00.65W SP9245
+Up Exe - Devon 50.80N 03.50W SS9402
+Upgate - Norfolk 52.71N 01.16E TG1418
+Upgate Street - Norfolk 52.46N 01.35E TM2891
+Upgate Street - Norfolk 52.48N 01.07E TM0992
+Up Green - Hampshire 51.33N 00.86W SU7960
+Uphall - Dorset 50.81N 02.64W ST5502
+Uphall - West Lothian 55.92N 03.52W NT0571
+Uphall Station - West Lothian 55.91N 03.50W NT0670
+Upham - Hampshire 50.97N 01.24W SU5320
+Upham - Devon 50.86N 03.59W SS8808
+Uphampton - Hereford and Worcester 52.26N 02.89W SO3963
+Uphampton - Hereford and Worcester 52.27N 02.25W SO8364
+Up Hatherley - Gloucestershire 51.87N 02.13W SO9120
+Uphempston - Devon 50.45N 03.66W SX8263
+Uphill - Somerset 51.31N 02.99W ST3158
+Uphill Manor - North Somerset 51.32N 02.97W ST3259
+Up Holland - Lancashire 53.53N 02.74W SD5105
+Uplands - Gloucestershire 51.74N 02.21W SO8505
+Uplands - Abertawe (Swansea) 51.61N 03.98W SS6392
+Uplawmoor - East Ayrshire 55.76N 04.50W NS4355
+Upleadon - Gloucestershire 51.93N 02.36W SO7526
+Upleadon Court - Gloucestershire 51.93N 02.35W SO7626
+Upleatham - Redcar and Cleveland 54.56N 01.02W NZ6319
+Uploders - Dorset 50.73N 02.70W SY5093
+Uplowman - Devon 50.92N 03.41W ST0115
+Uplyme - Devon 50.73N 02.96W SY3293
+Up Marden - West Sussex 50.92N 00.87W SU7914
+Upminster - Havering 51.56N 00.24E TQ5687
+Up Mudford - Somerset 50.95N 02.61W ST5718
+Up Nately - Hampshire 51.25N 01.01W SU6951
+Upottery - Devon 50.85N 03.13W ST2007
+Uppacott - Devon 51.03N 04.06W SS5528
+Uppat - Highland 57.99N 03.93W NC8602
+Uppend - Hertfordshire 51.91N 00.12E TL4626
+Upper Affcot - Shropshire 52.46N 02.82W SO4486
+Upper Ardchronie - Highland 57.86N 04.36W NH6088
+Upper Arley - Hereford and Worcester 52.41N 02.35W SO7680
+Upper Armley - Leeds 53.80N 01.60W SE2634
+Upper Arncott - Oxfordshire 51.84N 01.11W SP6117
+Upper Astley - Shropshire 52.75N 02.69W SJ5318
+Upper Aston - Shropshire 52.53N 02.28W SO8193
+Upper Astrop - Northamptonshire 52.02N 01.25W SP5137
+Upper Badcall - Highland 58.31N 05.16W NC1541
+Upper Bangor - Gwynedd 53.22N 04.14W SH5772
+Upper Basildon - Berkshire 51.48N 01.15W SU5976
+Upper Batley - Kirklees 53.72N 01.63W SE2425
+Upper Battlefield - Shropshire 52.74N 02.72W SJ5117
+Upper Beeding - West Sussex 50.87N 00.30W TQ1910
+Upper Benefield - Northamptonshire 52.49N 00.55W SP9889
+Upper Bentley - Hereford and Worcester 52.29N 02.01W SO9966
+Upper Bighouse - Highland 58.48N 03.92W NC8857
+Upper Birchwood - Derbyshire 53.08N 01.35W SK4354
+Upper Blainslie - Scottish Borders 55.68N 02.74W NT5344
+Upper Boat - Rhondda, Cynon, Taf (Rhondda, Cynon, Taff) 51.57N 03.30W ST1087
+Upper Boddam - Aberdeenshire 57.35N 02.63W NJ6230
+Upper Boddington - Northamptonshire 52.17N 01.29W SP4853
+Upper Bonchurch - Isle of Wight 50.59N 01.19W SZ5778
+Upper Booth - Derbyshire 53.36N 01.85W SK1085
+Upper Borth - Sir Ceredigion (Ceredigion) 52.47N 04.06W SN6088
+Upper Boyndlie - Aberdeenshire 57.64N 02.16W NJ9062
+Upper Brailes - Warwickshire 52.04N 01.56W SP3039
+Upper Brandon Parva - Norfolk 52.63N 01.01E TG0408
+Upper Breakish - Highland 57.23N 05.84W NG6823
+Upper Breinton - Hereford and Worcester 52.05N 02.78W SO4640
+Upper Broadheath - Hereford and Worcester 52.20N 02.29W SO8056
+Upper Brockholes - Calderdale 53.75N 01.91W SE0629
+Upper Broughton - Nottinghamshire 52.82N 00.99W SK6826
+Upper Broxwood - Hereford and Worcester 52.17N 02.93W SO3653
+Upper Bruntingthorpe - Leicestershire 52.48N 01.11W SP6088
+Upper Brynamman - Sir Gaerfyrddin (Carmarthenshire) 51.80N 03.87W SN7114
+Upper Buckenhill - Hereford and Worcester 51.99N 02.59W SO5933
+Upper Bucklebury - Berkshire 51.40N 01.22W SU5468
+Upper Bullington - Hampshire 51.16N 01.34W SU4641
+Upper Burgate - Hampshire 50.94N 01.78W SU1516
+Upper Bush - Kent 51.36N 00.42E TQ6966
+Upperby - Cumbria 54.86N 02.93W NY4053
+Upper Caldecote - Bedfordshire 52.09N 00.30W TL1645
+Upper Cam - Gloucestershire 51.68N 02.36W ST7599
+Upper Canada - North Somerset 51.31N 02.91W ST3658
+Upper Canterton - Hampshire 50.90N 01.63W SU2612
+Upper Catesby - Northamptonshire 52.22N 01.24W SP5259
+Upper Catshill - Hereford and Worcester 52.36N 02.06W SO9674
+Upper Chapel - Powys 52.04N 03.45W SO0040
+Upper Cheddon - Somerset 51.04N 03.09W ST2328
+Upper Chicksgrove - Wiltshire 51.06N 02.05W ST9629
+Upper Church Village - Rhondda, Cynon, Taf (Rhondda, Cynon, Taff) 51.56N 03.32W ST0886
+Upper Chute - Wiltshire 51.27N 01.58W SU2953
+Upper Clapton - Hackney 51.56N 00.06W TQ3487
+Upper Clatford - Hampshire 51.18N 01.50W SU3543
+Upper Coberley - Gloucestershire 51.83N 02.04W SO9715
+Upper College - Shropshire 52.90N 02.64W SJ5734
+Upper Colwall - Hereford and Worcester 52.08N 02.35W SO7643
+Upper Common - Hampshire 51.20N 01.09W SU6345
+Upper Cotton - Staffordshire 53.02N 01.92W SK0547
+Upper Cound - Shropshire 52.63N 02.66W SJ5504
+Upper Croxley - Somerset 51.18N 02.67W ST5343
+Upper Cudworth - Barnsley 53.57N 01.42W SE3809
+Upper Cumberworth - Kirklees 53.56N 01.68W SE2108
+Upper Cwmbran - Tor-Faen (Torfaen) 51.65N 03.05W ST2796
+Upper Cwmbran - Tor-Faen (Torfaen) 51.63N 03.02W ST2993
+Upperdale - Shetland Islands 60.26N 01.65W HU1953
+Upperdale - Derbyshire 53.24N 01.74W SK1772
+Upper Dallachy - Moray 57.64N 03.07W NJ3662
+Upper Deal - Kent 51.20N 01.37E TR3651
+Upper Dean - Devon 50.46N 03.80W SX7264
+Upper Dean - Bedfordshire 52.29N 00.47W TL0467
+Upper Denby - Kirklees 53.55N 01.66W SE2207
+Upper Denby - Kirklees 53.64N 01.65W SE2316
+Upper Denton - Cumbria 54.97N 02.61W NY6165
+Upper Diabaig - Highland 57.57N 05.66W NG8160
+Upper Dicker - East Sussex 50.86N 00.20E TQ5510
+Upper Dinchope - Shropshire 52.44N 02.81W SO4583
+Upper Dormington - Hereford and Worcester 52.04N 02.61W SO5839
+Upper Dounreay - Highland 58.56N 03.72W ND0065
+Upper Dovercourt - Essex 51.92N 01.24E TM2330
+Upper Dowdeswell - Gloucestershire 51.86N 02.00W SP0019
+Upper Drummond - Highland 57.45N 04.23W NH6643
+Upper Dunsforth - North Yorkshire 54.06N 01.32W SE4463
+Upper Dunsley - Hertfordshire 51.79N 00.65W SP9311
+Upper Eashing - Surrey 51.17N 00.64W SU9543
+Upper Eastern Green - Solihull 52.41N 01.60W SP2780
+Upper Edmonton - Enfield 51.61N 00.06W TQ3492
+Upper Egleton - Hereford and Worcester 52.09N 02.54W SO6344
+Upper Elkstone - Staffordshire 53.11N 01.92W SK0558
+Upper Ellastone - Staffordshire 52.98N 01.83W SK1143
+Upper Elmers End - Croydon 51.38N 00.04W TQ3667
+Upper End - Gloucestershire 51.81N 01.82W SP1213
+Upper End - Gloucestershire 51.75N 02.00W SP0006
+Upper End - Derbyshire 53.28N 01.88W SK0876
+Upper End - Leicestershire 52.71N 00.90W SK7414
+Upper Enham - Hampshire 51.23N 01.48W SU3649
+Upper Farmcote - Shropshire 52.51N 02.34W SO7791
+Upper Farringdon - Hampshire 51.11N 00.98W SU7135
+Upper Feorlig - Highland 57.40N 06.51W NG2944
+Upper Fivehead - Somerset 51.00N 02.94W ST3423
+Upper Forge - Shropshire 52.49N 02.41W SO7289
+Upper Framilode - Gloucestershire 51.78N 02.36W SO7510
+Upper Froyle - Hampshire 51.17N 00.92W SU7542
+Upper Gambolds - Hereford and Worcester 52.31N 02.04W SO9768
+Upper Gills - Highland 58.62N 03.17W ND3271
+Upper Godney - Somerset 51.17N 02.74W ST4842
+Upper Goldstone - Kent 51.29N 01.28E TR2960
+Upper Gornal - Dudley 52.52N 02.11W SO9292
+Upper Gravenhurst - Bedfordshire 52.01N 00.38W TL1136
+Upper Green - Suffolk 52.24N 00.54E TL7464
+Upper Green - Essex 51.98N 00.09E TL4434
+Upper Green - Sir Fynwy (Monmouthshire) 51.85N 02.90W SO3818
+Upper Green - Berkshire 51.36N 01.48W SU3663
+Upper Green - Leeds 53.72N 01.59W SE2725
+Upper Grove Common - Hereford and Worcester 51.93N 02.65W SO5526
+Upper Guist - Norfolk 52.79N 00.96E TG0026
+Upper Hackney - Derbyshire 53.14N 01.56W SK2961
+Upper Hale - Surrey 51.23N 00.79W SU8449
+Upper Halistra - Highland 57.53N 06.61W NG2459
+Upper Halliford - Surrey 51.40N 00.43W TQ0968
+Upper Halling - Kent 51.35N 00.42E TQ6964
+Upper Ham - Hereford and Worcester 52.04N 02.22W SO8539
+Upper Hambleton - Rutland 52.65N 00.67W SK9007
+Upper Hamnish - Hereford and Worcester 52.22N 02.67W SO5459
+Upper Handwick - Angus 56.56N 03.04W NO3642
+Upper Harbledown - Kent 51.28N 01.02E TR1158
+Upper Hardres Court - Kent 51.20N 01.07E TR1550
+Upper Hardwick - Hereford and Worcester 52.20N 02.87W SO4057
+Upper Hartfield - East Sussex 51.08N 00.08E TQ4634
+Upper Hartshay - Derbyshire 53.04N 01.43W SK3850
+Upper Haselor - Hereford and Worcester 52.06N 01.98W SP0141
+Upper Hatton - Staffordshire 52.93N 02.25W SJ8337
+Upper Haugh - Rotherham 53.46N 01.36W SK4297
+Upper Hayesden - Kent 51.17N 00.23E TQ5644
+Upper Hayton - Shropshire 52.42N 02.72W SO5181
+Upper Heaton - Kirklees 53.66N 01.72W SE1819
+Upper Hellesdon - Norfolk 52.65N 01.28E TG2211
+Upper Helmsley - North Yorkshire 53.99N 00.94W SE6956
+Upper Hengoed - Shropshire 52.89N 03.07W SJ2834
+Upper Hergest - Hereford and Worcester 52.17N 03.08W SO2654
+Upper Heyford - Northamptonshire 52.22N 01.03W SP6659
+Upper Heyford - Oxfordshire 51.93N 01.28W SP4926
+Upper Hill - Hereford and Worcester 52.17N 02.77W SO4753
+Upper Hill - South Gloucestershire 51.66N 02.50W ST6596
+Upper Hindhope - Scottish Borders 55.37N 02.38W NT7609
+Upper Holloway - Camden 51.55N 00.14W TQ2986
+Upper Holton - Suffolk 52.34N 01.52E TM4078
+Upper Hopton - Kirklees 53.65N 01.71W SE1918
+Upper Horsebridge - East Sussex 50.87N 00.24E TQ5811
+Upper Howsell - Hereford and Worcester 52.13N 02.33W SO7748
+Upper Hoyland - Barnsley 53.50N 01.47W SE3501
+Upper Hulme - Staffordshire 53.13N 01.98W SK0160
+Upper Hyde - Isle of Wight 50.62N 01.19W SZ5781
+Upper Ifold - Surrey 51.08N 00.57W TQ0033
+Upper Inglesham - Swindon 51.66N 01.71W SU2096
+Upper Kenley - Fife 56.29N 02.71W NO5611
+Upper Kergord - Shetland Islands 60.28N 01.27W HU4056
+Upper Kidston - Scottish Borders 55.66N 03.24W NT2242
+Upper Kilchattan - Argyll and Bute 56.07N 06.22W NR3795
+Upper Kilcott - South Gloucestershire 51.59N 02.30W ST7988
+Upper Killay - Abertawe (Swansea) 51.60N 04.05W SS5892
+Upper Kinsham - Hereford and Worcester 52.27N 02.93W SO3665
+Upper Knockando - Moray 57.47N 03.36W NJ1843
+Upper Lambourn - Berkshire 51.51N 01.55W SU3180
+Upper Landywood - Staffordshire 52.64N 02.03W SJ9805
+Upper Langford - North Somerset 51.32N 02.77W ST4659
+Upper Langwith - Derbyshire 53.21N 01.23W SK5169
+Upper Largo (Kirkton of Largo) - Fife 56.21N 02.93W NO4203
+Upper Layham - Suffolk 52.02N 00.95E TM0340
+Upper Leigh - Staffordshire 52.92N 01.98W SK0136
+Upper Littleton - North Somerset 51.37N 02.64W ST5564
+Upper Loads - Derbyshire 53.21N 01.53W SK3169
+Upper Lochton - Aberdeenshire 57.06N 02.51W NO6997
+Upper Lode - Gloucestershire 51.99N 02.17W SO8833
+Upper Longdon - Staffordshire 52.72N 01.92W SK0514
+Upper Ludstone - Shropshire 52.55N 02.29W SO8095
+Upper Lybster - Highland 58.31N 03.28W ND2537
+Upper Lydbrook - Gloucestershire 51.83N 02.58W SO6015
+Upper Lyde - Hereford and Worcester 52.09N 02.74W SO4944
+Upper Lye - Hereford and Worcester 52.28N 02.89W SO3965
+Upper Maes-coed - Hereford and Worcester 52.00N 02.97W SO3334
+Upper Marsh - Bradford 53.82N 01.97W SE0236
+Upper Midhope - Sheffield 53.48N 01.68W SK2199
+Upper Midway - Derbyshire 52.77N 01.55W SK3020
+Uppermill - Oldham 53.54N 02.01W SD9905
+Upper Milovaig - Highland 57.44N 06.75W NG1549
+Upper Milton - Somerset 51.22N 02.66W ST5447
+Upper Milton - Oxfordshire 51.85N 01.63W SP2517
+Upper Minety - Wiltshire 51.61N 02.00W SU0091
+Upper Moor - Hereford and Worcester 52.12N 02.04W SO9747
+Upper Moor Side - Leeds 53.76N 01.63W SE2430
+Upper Morton - South Gloucestershire 51.61N 02.50W ST6591
+Upper Nash - Sir Benfro (Pembrokeshire) 51.68N 04.86W SN0202
+Upper Neepaback - Shetland Islands 60.50N 01.05W HU5280
+Upper Netchwood - Shropshire 52.52N 02.59W SO6092
+Upper Newbold - Derbyshire 53.25N 01.47W SK3573
+Upper Nobut - Staffordshire 52.91N 01.94W SK0435
+Upper North Dean - Buckinghamshire 51.67N 00.78W SU8498
+Upper Norwood - West Sussex 50.94N 00.67W SU9317
+Upper Norwood - Croydon 51.40N 00.08W TQ3369
+Upper Ochrwyth - Caerffili (Caerphilly) 51.59N 03.11W ST2389
+Upper Oddington - Gloucestershire 51.92N 01.68W SP2225
+Upper Ollach - Highland 57.34N 06.14W NG5136
+Upper Padley - Derbyshire 53.30N 01.64W SK2479
+Upper Persley - City of Aberdeen 57.18N 02.18W NJ8910
+Upper Pickwick - Wiltshire 51.43N 02.21W ST8571
+Upper Pollicott - Buckinghamshire 51.81N 00.98W SP7013
+Upper Poppleton - York 53.97N 01.16W SE5554
+Upper Postern - Kent 51.19N 00.30E TQ6146
+Upper Quinton - Warwickshire 52.11N 01.75W SP1746
+Upper Race - Tor-Faen (Torfaen) 51.68N 03.05W ST2799
+Upper Ratley - Hampshire 51.00N 01.54W SU3223
+Upper Rochford - Hereford and Worcester 52.30N 02.55W SO6267
+Upper Rodmersham - Kent 51.30N 00.75E TQ9260
+Upper Sanday - Orkney Islands 58.91N 02.80W HY5403
+Upper Sapey - Hereford and Worcester 52.26N 02.47W SO6863
+Upper Seagry - Wiltshire 51.51N 02.08W ST9480
+Upper Shelton - Bedfordshire 52.07N 00.55W SP9943
+Upper Sheringham - Norfolk 52.92N 01.18E TG1441
+Upper Shirley - City of Southampton 50.92N 01.43W SU4014
+Upper Shirley - Croydon 51.35N 00.06W TQ3564
+Upper Siddington - Gloucestershire 51.68N 01.97W SU0299
+Upper Skelmorlie - North Ayrshire 55.86N 04.89W NS1967
+Upper Slackstead - Hampshire 51.03N 01.44W SU3926
+Upper Slaughter - Gloucestershire 51.90N 01.78W SP1523
+Upper Solva - Sir Benfro (Pembrokeshire) 51.87N 05.21W SM7924
+Upper Soudley - Gloucestershire 51.78N 02.50W SO6510
+Uppersound - Shetland Islands 60.14N 01.19W HU4540
+Upper Stanton Drew - Bath and North East Somerset 51.35N 02.57W ST6062
+Upper Staploe - Bedfordshire 52.21N 00.33W TL1459
+Upper Stoke - Coventry 52.41N 01.48W SP3580
+Upper Stoke - Norfolk 52.56N 01.31E TG2502
+Upper Stondon - Bedfordshire 52.00N 00.34W TL1435
+Upper Stowe - Northamptonshire 52.19N 01.06W SP6456
+Upper Stratton - Swindon 51.58N 01.77W SU1687
+Upper Street - Hampshire 50.96N 01.78W SU1518
+Upper Street - Norfolk 52.37N 01.18E TM1780
+Upper Street - Suffolk 52.11N 01.06E TM1051
+Upper Street - Suffolk 52.12N 00.59E TL7851
+Upper Street - Suffolk 51.96N 01.11E TM1434
+Upper Street - Norfolk 52.70N 01.43E TG3217
+Upper Street - Norfolk 52.87N 01.34E TG2536
+Upper Street - Norfolk 52.69N 01.47E TG3517
+Upper Street - Norfolk 52.76N 01.40E TG3024
+Upper Strensham - Hereford and Worcester 52.04N 02.14W SO9039
+Upper Studley - Wiltshire 51.30N 02.23W ST8456
+Upper Sundon - Bedfordshire 51.93N 00.48W TL0427
+Upper Swainswick - Bath and North East Somerset 51.41N 02.36W ST7568
+Upper Swanmore - Hampshire 50.94N 01.17W SU5817
+Upper Swell - Gloucestershire 51.93N 01.75W SP1726
+Upper Sydenham - Bromley 51.42N 00.07W TQ3471
+Upper Tankersley - Barnsley 53.48N 01.48W SK3499
+Upper Tean - Staffordshire 52.94N 01.98W SK0139
+Upperthong - Kirklees 53.56N 01.80W SE1308
+Upperthorpe - Derbyshire 53.31N 01.31W SK4680
+Upperthorpe - North Lincolnshire 53.49N 00.87W SE7500
+Upper Threapwood - Wrecsam (Wrexham) 52.99N 02.83W SJ4445
+Upper Thurnham - Lancashire 53.97N 02.84W SD4554
+Upperton - West Sussex 50.98N 00.64W SU9522
+Upperton - East Sussex 50.77N 00.26E TQ6000
+Upperton - Oxfordshire 51.64N 01.06W SU6594
+Upper Tooting - Wandsworth 51.43N 00.17W TQ2772
+Upper Town - Suffolk 52.26N 00.81E TL9267
+Upper Town - Hereford and Worcester 52.13N 02.61W SO5849
+Uppertown - Highland 58.66N 03.12W ND3576
+Upper Town - Wiltshire 51.51N 02.04W ST9779
+Upper Town - North Somerset 51.39N 02.69W ST5266
+Uppertown - Northumberland 55.04N 02.22W NY8672
+Upper Town - Durham 54.72N 01.89W NZ0737
+Upper Town - Bradford 53.80N 01.97W SE0234
+Upper Town - Derbyshire 53.05N 01.65W SK2351
+Uppertown - Derbyshire 53.17N 01.52W SK3264
+Upper Town - Derbyshire 53.11N 01.59W SK2758
+Upper Treverward - Shropshire 52.39N 03.07W SO2778
+Upper Tullich - Highland 57.72N 04.13W NH7373
+Upper Tysoe - Warwickshire 52.08N 01.51W SP3343
+Upper Up - Wiltshire 51.66N 01.94W SU0496
+Upper Upham - Wiltshire 51.49N 01.68W SU2277
+Upper Upnor - Kent 51.40N 00.51E TQ7570
+Upper Urafirth - Shetland Islands 60.48N 01.45W HU3078
+Upper Vobster - Somerset 51.23N 02.43W ST7049
+Upper Walthamstow - Waltham Forest 51.58N 00.01W TQ3889
+Upper Wardington - Oxfordshire 52.11N 01.28W SP4946
+Upper Wardley - West Sussex 51.04N 00.80W SU8428
+Upper Weald - Milton Keynes 52.02N 00.83W SP8037
+Upper Weedon - Northamptonshire 52.21N 01.09W SP6258
+Upper Welland - Hereford and Worcester 52.05N 02.33W SO7740
+Upper Wellingham - East Sussex 50.89N 00.03E TQ4313
+Upper Welson - Hereford and Worcester 52.15N 03.03W SO2951
+Upper Westholme - Somerset 51.15N 02.61W ST5740
+Upper Weston - Bath and North East Somerset 51.40N 02.40W ST7267
+Upper Weybread - Suffolk 52.36N 01.27E TM2379
+Upper Whiston - Rotherham 53.39N 01.32W SK4589
+Upper Wick - Hereford and Worcester 52.17N 02.26W SO8253
+Upper Wick - Gloucestershire 51.66N 02.42W ST7196
+Upper Wield - Hampshire 51.13N 01.11W SU6238
+Upper Wigginton - Shropshire 52.90N 02.99W SJ3335
+Upper Winchendon - Buckinghamshire 51.81N 00.92W SP7414
+Upper Witton - Birmingham 52.52N 01.88W SP0892
+Upper Wolvercote - Oxfordshire 51.77N 01.29W SP4909
+Upper Wolverton - Hereford and Worcester 52.14N 02.13W SO9150
+Upperwood - Derbyshire 53.10N 01.56W SK2957
+Upper Woodend - Aberdeenshire 57.26N 02.56W NJ6619
+Upper Woodford - Wiltshire 51.13N 01.82W SU1237
+Upper Woolhampton - Berkshire 51.39N 01.18W SU5767
+Upper Wootton - Hampshire 51.28N 01.18W SU5754
+Upper Wraxall - Wiltshire 51.46N 02.28W ST8074
+Upper Wyche - Hereford and Worcester 52.08N 02.33W SO7743
+Uppincott - Devon 50.80N 03.59W SS8802
+Uppingham - Rutland 52.58N 00.73W SP8699
+Uppington - Dorset 50.85N 01.98W SU0106
+Uppington - Shropshire 52.67N 02.59W SJ6009
+Uppington - Shropshire 52.67N 02.60W SJ5909
+Uppper Longwood - Shropshire 52.65N 02.59W SJ6007
+Upsall - North Yorkshire 54.27N 01.31W SE4587
+Upsher Green - Suffolk 52.05N 00.78E TL9143
+Upshire - Essex 51.68N 00.03E TL4100
+Up Somborne - Hampshire 51.08N 01.44W SU3932
+Upstreet - Kent 51.32N 01.18E TR2263
+Up Sydling - Dorset 50.80N 02.54W ST6201
+Upthorpe - Suffolk 52.31N 00.88E TL9772
+Upthorpe - Gloucestershire 51.69N 02.36W SO7500
+Upton - Wiltshire 51.08N 02.18W ST8732
+Upton - Somerset 51.03N 02.78W ST4526
+Upton - Somerset 51.04N 03.44W SS9928
+Upton - Dorset 50.73N 02.02W SY9893
+Upton - Hampshire 50.95N 01.47W SU3717
+Upton - Cornwall 50.80N 04.55W SS2004
+Upton - Devon 50.81N 03.29W ST0902
+Upton - Isle of Wight 50.70N 01.17W SZ5890
+Upton - Cornwall 50.52N 04.44W SX2772
+Upton - Devon 50.27N 03.82W SX7043
+Upton - Leicestershire 52.58N 01.47W SP3699
+Upton - Cambridgeshire 52.38N 00.28W TL1778
+Upton - Warwickshire 52.21N 01.82W SP1257
+Upton - Northamptonshire 52.23N 00.96W SP7160
+Upton - Buckinghamshire 51.79N 00.88W SP7711
+Upton - Oxfordshire 51.80N 01.65W SP2412
+Upton - Oxfordshire 51.57N 01.26W SU5186
+Upton - Newham 51.53N 00.01E TQ4084
+Upton - Kent 51.35N 01.41E TR3867
+Upton - Hampshire 51.29N 01.48W SU3655
+Upton - Berkshire 51.50N 00.58W SU9879
+Upton - Cumbria 54.74N 03.05W NY3239
+Upton - East Riding of Yorkshire 53.96N 00.26W TA1454
+Upton - Wirral 53.38N 03.09W SJ2788
+Upton - Lincolnshire 53.36N 00.70W SK8686
+Upton - Knowsley 53.37N 02.78W SJ4887
+Upton - Wakefield 53.61N 01.29W SE4713
+Upton - Cheshire 53.20N 02.89W SJ4068
+Upton - Nottinghamshire 53.27N 00.89W SK7476
+Upton - Nottinghamshire 53.07N 00.91W SK7354
+Upton - Norfolk 52.65N 01.53E TG3912
+Upton - Cambridgeshire 52.58N 00.37W TF1000
+Upton Bishop - Hereford and Worcester 51.94N 02.51W SO6527
+Upton Cheyney - South Gloucestershire 51.41N 02.44W ST6969
+Upton Cressett - Shropshire 52.52N 02.51W SO6592
+Upton Crews - Hereford and Worcester 51.94N 02.52W SO6427
+Upton Cross - Cornwall 50.52N 04.42W SX2872
+Upton End - Bedfordshire 51.99N 00.37W TL1234
+Upton Field - Nottinghamshire 53.07N 00.94W SK7154
+Upton Green - Norfolk 52.65N 01.53E TG3912
+Upton Grey - Hampshire 51.22N 01.01W SU6948
+Upton Heath - Cheshire 53.21N 02.88W SJ4169
+Upton Hellions - Devon 50.81N 03.64W SS8403
+Upton Lovell - Wiltshire 51.15N 02.08W ST9440
+Upton Magna - Shropshire 52.70N 02.66W SJ5512
+Upton Noble - Somerset 51.14N 02.41W ST7139
+Upton Park - Newham 51.52N 00.03E TQ4183
+Upton Pyne - Devon 50.76N 03.54W SX9197
+Upton Rocks - Cheshire 53.37N 02.75W SJ5087
+Upton Scudamore - Wiltshire 51.22N 02.20W ST8647
+Upton Snodsbury - Hereford and Worcester 52.18N 02.08W SO9454
+Upton St Leonards - Gloucestershire 51.82N 02.20W SO8614
+Upton upon Severn - Hereford and Worcester 52.05N 02.22W SO8540
+Upton Warren - Hereford and Worcester 52.30N 02.10W SO9367
+Upwaltham - West Sussex 50.90N 00.66W SU9413
+Upware - Cambridgeshire 52.30N 00.24E TL5370
+Upwell - Norfolk 52.59N 00.19E TF4902
+Upwey - Dorset 50.65N 02.48W SY6684
+Upwick Green - Hertfordshire 51.89N 00.10E TL4524
+Upwood - Cambridgeshire 52.42N 00.16W TL2582
+Urafirth - Shetland Islands 60.48N 01.45W HU3078
+Uragaig - Argyll and Bute 56.10N 06.21W NR3898
+Urchfont - Wiltshire 51.31N 01.94W SU0457
+Urdimarsh - Hereford and Worcester 52.12N 02.70W SO5248
+Ure - North Yorkshire 54.27N 01.72W SE178867
+Ure - Shetland Islands 60.50N 01.60W HU2280
+Ure Bank - North Yorkshire 54.14N 01.52W SE3172
+Urgashay - Somerset 51.01N 02.62W ST5624
+Urgha - Western Isles 57.89N 06.77W NG1799
+Urgha Beag - Western Isles 57.90N 06.77W NB1700
+Urgha River - Western Isles 57.90N 06.76W NB180000
+Urie - Aberdeenshire 57.27N 02.36W NJ779210
+Urie Lingey - Shetland Islands 60.63N 00.91W HU594955
+Urlay Nook - Stockton-on-Tees 54.52N 01.38W NZ4014
+Urmston - Trafford 53.44N 02.39W SJ7494
+Urpeth - Durham 54.88N 01.61W NZ2554
+Urquhart - Moray 57.64N 03.20W NJ2862
+Urr - Dumfries and Galloway 54.92N 03.83W NX826603
+Urra - North Yorkshire 54.40N 01.12W NZ5701
+Urr Water - Dumfries and Galloway 55.03N 03.94W NX760724
+Urvaig - Argyll and Bute 56.55N 06.75W NM079501
+Ushaw Moor - Durham 54.77N 01.65W NZ2242
+Usk - Powys 51.94N 03.42W SO022285
+Usk - Casnewydd (Newport) 51.61N 02.94W ST347909
+Usk (Brynbuga) - Sir Fynwy (Monmouthshire) 51.69N 02.91W SO3700
+Usk Reservoir - Powys 51.93N 03.71W SN819282
+Usselby - Lincolnshire 53.42N 00.36W TF0993
+Usworth - Sunderland 54.91N 01.53W NZ3058
+Utkinton - Cheshire 53.17N 02.68W SJ5464
+Utley - Bradford 53.87N 01.92W SE0542
+Uton - Devon 50.76N 03.67W SX8298
+Utterby - Lincolnshire 53.41N 00.04W TF3093
+Uttoxeter - Staffordshire 52.89N 01.86W SK0933
+Uwchmynydd - Gwynedd 52.79N 04.74W SH1525
+Uxbridge - Hillingdon 51.53N 00.48W TQ0583
+Uxbridge Moor - Hillingdon 51.53N 00.48W TQ0583
+Uyea - Shetland Islands 60.67N 00.90W HU599991
+Uyea - Shetland Islands 60.61N 01.43W HU310927
+Uyeasound - Shetland Islands 60.68N 00.92W HP5901
+Uynarey - Shetland Islands 60.50N 01.20W HU439808
+Uzmaston - Sir Benfro (Pembrokeshire) 51.78N 04.94W SM9714
