@@ -5,11 +5,12 @@ from pymongo import MongoClient
 
 
 
-client = MongoClient()
+client = MongoClient('mongodb://127.0.0.1:27017/')
 db = client.towns_db
+print "connected"
 
 def insert_towns():
-    db.towns.drop()
+ #   db.towns.drop()
     f = open('towns.txt', 'rb')
     reader = csv.DictReader(f)
 
@@ -18,7 +19,7 @@ def insert_towns():
         db.towns.insert_one(l)
 
 def insert_counties():
-    db.counties.drop()
+#    db.counties.drop()
     f = open('counties_.txt', 'rb')
     reader = csv.DictReader(f)
 
@@ -28,3 +29,4 @@ def insert_counties():
         db.counties.insert_one(l)
 
 insert_counties()
+insert_towns()

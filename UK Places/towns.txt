@@ -1,3 +1,4 @@
+town,county,lat,lon
 barnet,barnet,51.64,-0.2
 barnsley,barnsley,53.54,-1.48
 bexley,bexley,51.45,0.1

@@ -19,25 +19,43 @@ api = tweepy.API(auth)
 ##############Mongo Setup################
 
 client = MongoClient()
-db = client.food_database
+db = client.tweet_database
 locationIdentifier = TweetLocationIdentifier()
 
 class TweetStreamListener(tweepy.StreamListener):
 
+    total_streamed = 0
+    total_accepted = 0    
+
     def on_status(self, status):
+        if self.total_streamed % 1000 == 0:
+            with open('stats.txt', 'a') as f:
+		f.write('Total Streamed: ' + str(self.total_streamed) + ' Total Accepted: ' + str(self.total_accepted) + '\n')
+		
         loc = locationIdentifier.checkTweetLocation(status._json)
+        self.total_streamed += 1
         if loc:
+            self.total_accepted += 1
+	    '''
             print '*************'
             print status.text
             print loc
-            db.tweets.insert_one(status._json)
+            '''
+	    db.tweets.insert_one(status._json)
 
 streamListener = TweetStreamListener()
-stream = tweepy.Stream(auth = api.auth, listener=streamListener)
 
 food = ['dinner', 'lunch', 'tea', 'brunch', 'breakfast', 'snack', 'meal', 'supper']
 smoking = ['cig', 'cigarette', 'vape', 'vaping', 'e-cig', 'ecig', 'tobacco', 'nicotine']
-fitness = ['gym', 'workout', 'fitness', 'gains']
+fitness = ['gym', 'workout', 'fitness', 'gains', 'exercise','run', 'running', 'swim', 'swimming', 'jog', 'jogging', 'cycle', 'cycling', 'bike', 'biking', 'hike']
 
 track = food + smoking + fitness
-stream.filter(track=track)
+while True:
+    try:
+	stream = tweepy.Stream(auth = api.auth, listener=streamListener)
+        stream.filter(track=track)
+    except KeyboardInterrupt:
+	stream.disconnect()
+	break
+    except:
+	continue
