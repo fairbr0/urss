@@ -25,13 +25,13 @@ locationIdentifier = TweetLocationIdentifier()
 class TweetStreamListener(tweepy.StreamListener):
 
     total_streamed = 0
-    total_accepted = 0    
+    total_accepted = 0
 
     def on_status(self, status):
         if self.total_streamed % 1000 == 0:
             with open('stats.txt', 'a') as f:
 		f.write('Total Streamed: ' + str(self.total_streamed) + ' Total Accepted: ' + str(self.total_accepted) + '\n')
-		
+
         loc = locationIdentifier.checkTweetLocation(status._json)
         self.total_streamed += 1
         if loc:
@@ -48,6 +48,7 @@ streamListener = TweetStreamListener()
 food = ['dinner', 'lunch', 'tea', 'brunch', 'breakfast', 'snack', 'meal', 'supper']
 smoking = ['cig', 'cigarette', 'vape', 'vaping', 'e-cig', 'ecig', 'tobacco', 'nicotine']
 fitness = ['gym', 'workout', 'fitness', 'gains', 'exercise','run', 'running', 'swim', 'swimming', 'jog', 'jogging', 'cycle', 'cycling', 'bike', 'biking', 'hike']
+drink = ['alcohol', 'booze', 'alcoholic', 'hangover', 'hungover', 'drunk', 'pub']
 
 track = food + smoking + fitness
 while True:
