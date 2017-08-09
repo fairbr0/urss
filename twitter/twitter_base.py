@@ -19,7 +19,7 @@ api = tweepy.API(auth)
 ##############Mongo Setup################
 
 client = MongoClient()
-db = client.tweet_database
+db = client.tweet_database_two
 locationIdentifier = TweetLocationIdentifier()
 
 class TweetStreamListener(tweepy.StreamListener):
@@ -36,11 +36,11 @@ class TweetStreamListener(tweepy.StreamListener):
         self.total_streamed += 1
         if loc:
             self.total_accepted += 1
-	    '''
-            print '*************'
-            print status.text
-            print loc
-            '''
+	    #
+            #print '*************'
+            #print status.text
+            #print loc
+            #'''
 	    db.tweets.insert_one(status._json)
 
 streamListener = TweetStreamListener()
@@ -50,13 +50,16 @@ smoking = ['cig', 'cigarette', 'vape', 'vaping', 'e-cig', 'ecig', 'tobacco', 'ni
 fitness = ['gym', 'workout', 'fitness', 'gains', 'exercise','run', 'running', 'swim', 'swimming', 'jog', 'jogging', 'cycle', 'cycling', 'bike', 'biking', 'hike']
 drink = ['alcohol', 'booze', 'alcoholic', 'hangover', 'hungover', 'drunk', 'pub']
 
-track = food + smoking + fitness
+track = food + smoking + fitness + drink
 while True:
     try:
 	stream = tweepy.Stream(auth = api.auth, listener=streamListener)
+	print "starting stream"
         stream.filter(track=track)
     except KeyboardInterrupt:
 	stream.disconnect()
 	break
-    except:
+    except Exception, e:
+	print "Connection closed due to: ", e
+	print "restarting"
 	continue
